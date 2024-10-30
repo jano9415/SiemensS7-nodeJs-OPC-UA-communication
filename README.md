@@ -11,3 +11,8 @@ PLC instance in PLCSIM Advanced to simulate a Siemens 1500 PLC:
 
 The OPC-UA client reads data from OPCUA_data block. It reads boolean, integer, real and string.
 
+![Image13](https://github.com/user-attachments/assets/63e43aa2-df1e-48a2-84e1-8a606029a85d)
+
+The OPC-UA client writes Boxnumber variable with value 14 in OPCUA_data data block.
+
+
